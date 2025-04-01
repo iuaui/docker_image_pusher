@@ -1,5 +1,3 @@
-contos:7
-jenkins
 registry:latest
 #tomcat
 #nginx
