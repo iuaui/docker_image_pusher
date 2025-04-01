@@ -1,4 +1,5 @@
-registry:latest
+centos:centos7
+#registry:latest
 #tomcat
 #nginx
 #支持私库
