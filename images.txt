@@ -1,4 +1,11 @@
-centos:centos7
+kube-apiserver:v1.20.9
+kube-proxy:v1.20.9
+kube-controller-manager:v1.20.9
+kube-scheduler:v1.20.9
+coredns:1.7.0
+etcd:3.4.13-0
+pause:3.2
+#centos:centos7
 #registry:latest
 #tomcat
 #nginx
