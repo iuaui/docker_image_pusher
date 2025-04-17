@@ -1,8 +1,10 @@
-calico/cni:v3.25.0
-calico/cni:v3.25.0
-calico/node:v3.25.0
-calico/node:v3.25.0
-calico/kube-controllers:v3.25.0
+agilestacks/fluentd-elasticsearch:v1.3.0
+busybox:1.28.4
+#calico/cni:v3.25.0
+#calico/cni:v3.25.0
+#calico/node:v3.25.0
+#calico/node:v3.25.0
+#calico/kube-controllers:v3.25.0
 
 
 #registry.aliyuncs.com/google_containers/kube-proxy:v1.20.9
