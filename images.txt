@@ -1,4 +1,5 @@
-nginx:1.24
+tomcat:9.0-jdk8
+#nginx:1.24
 #agilestacks/fluentd-elasticsearch:v1.3.0
 busybox:1.28.4
 #calico/cni:v3.25.0
