@@ -1,5 +1,5 @@
-sonarqube:8.9
-sonarqube:latest
+sonarqube:8.9.2-community
+sonarqube:10-community
 postgres:13
 postgres:12
 postgres:11
