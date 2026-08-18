@@ -1,5 +1,5 @@
-SonarQube:8.9
-SonarQube:latest
+sonarqube:8.9
+sonarqube:latest
 postgres:13
 postgres:12
 postgres:11
